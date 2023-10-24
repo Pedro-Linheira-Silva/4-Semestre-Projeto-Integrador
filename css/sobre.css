@@ -1,0 +1,27 @@
+.storage2 {
+    height: 55vh;
+    width: 55vh;
+}
+.sobre {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+}
+.imagem {
+    margin-right: 5vh;
+}
+.text {
+    max-width: 500px;
+}
+.nós {
+    color: #2270e6;
+}
+.more {
+    font-weight: bold;
+    text-decoration: underline;
+}
+h2 {
+    font-size: 4vh;
+}

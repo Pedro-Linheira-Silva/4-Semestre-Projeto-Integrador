@@ -1,0 +1,41 @@
+.subcontato {
+    background-color: #f3f4f6;
+    display: flex;
+    justify-content: center;
+    height: 55vh;
+    align-items: center;
+}
+h5 {
+    font-size: 5vh;
+    text-align: center;
+}
+.send {
+    background-color: #222222;
+    color: white;
+    border-radius: 3px;
+    width: 20vh;
+    margin-top: 25px;
+}
+h6 {
+    font-size: 20px;
+    border-top: 1px solid #565757;
+    margin-top: -1px;
+}
+.numero {
+    font-size: 16px;
+    margin-left: 20px;
+    margin-top: -25px;
+}
+.c, .x, .z {
+    font-size: 20px;
+}
+ul {
+    margin-top: -30px;
+    font-size: 25px;
+}
+.informações {
+    margin-right: 60px;
+}
+.hh6 {
+    border: 0px;
+}

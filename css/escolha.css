@@ -1,0 +1,28 @@
+.escolha {
+    background-color: #f4f8fd;
+}
+.escolha2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h3 {
+    font-size: 4vh;
+}
+.a1, .a2, .a3, .a4 {
+    color: #2270e6;
+}
+.motivos {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 60px;
+    padding: 90px;
+}
+.b01, .b02 {
+    border-bottom: 1px solid #bcbfc3;
+}
+
