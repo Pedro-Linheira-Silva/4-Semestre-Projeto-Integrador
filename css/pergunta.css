@@ -1,0 +1,34 @@
+.perguntas {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+}
+.titulo {
+    font-size: 4vh;
+    margin-top: 7vh;
+}
+.legenda {
+    margin-top: -2vh;
+    max-width: 90vh;
+}
+.carro {
+    display: flex;
+    flex-direction: column;
+    font-size: 2vh;
+    margin-top: 2vh;
+    max-width: 150vh;
+    border: 1px solid;
+}
+.mn, .nm, .bn, .nb, .vb {
+    font-weight: bold;
+    margin-right: 3vh;
+}
+.nm, .bn, .nb, .vb {
+    border-top: 1px solid;
+}
+.k, .kk, .kkk, .kkkk {
+    margin-right: 3vh;
+}
